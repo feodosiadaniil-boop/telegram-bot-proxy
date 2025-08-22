@@ -1,0 +1,12 @@
+{
+  "name": "telegram-bot-proxy",
+  "version": "1.0.0",
+  "description": "Proxy server for Telegram bot",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@vercel/node": "^1.15.3"
+  }
+}
